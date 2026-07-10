@@ -22,7 +22,7 @@ Peer-to-peer file sync system in C# using Merkle trees and differential compress
 **Stack**
 `C#` `Unity` `.NET` `WPF` `Avalonia` `Python`
 
-**Reach me:** [LinkedIn link] · Email: iayotunde@outlook.com
+**Reach me:** LinkedIn: www.linkedin.com/in/ayotunde-ismail-544b2a23a · Email: iayotunde@outlook.com
 
 <!--
 **aitherobot/aitherobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
