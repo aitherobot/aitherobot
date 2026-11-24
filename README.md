@@ -2,7 +2,7 @@
 
 ### Ayotunde — Game Developer & Software Engineer
 
-Final-year CS student (Software Engineering) — Unity/C# game developer, interning at Deluxe Creation Studios.
+Computer Science graduate (Software Engineering) — Unity/C# game developer, interning at Deluxe Creation Studios.
 
 Building systems-heavy software: distributed sync engines, game physics, and interpreters.
 
